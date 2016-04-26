@@ -1,9 +1,9 @@
 author 				= "Fast Forward Gaming";
 briefingName 		= "FFG - ARMA 3 LIFE";
 onLoadName 			= "FFG - ARMA 3 LIFE";
-OnLoadMission 		= "FFG Lakeside";
-overviewText 		= "FFG Lakeside";
-overviewTextLocked 	= "FFG Lakeside";
+OnLoadMission 		= "FFG Kelleys Island";
+overviewText 		= "FFG Kelleys Island";
+overviewTextLocked 	= "FFG Kelleys Island";
 
 joinUnassigned = 1;
 respawn = BASE;
